@@ -5,6 +5,12 @@ This project integrates OCR, machine translation, and text-to-speech technologie
 Given below is the link of code and the output:
 https://colab.research.google.com/drive/1olh6KmKKtGo5Md32lFz_3YfJbGU4_OFn?usp=sharing
 
+OUTPUT PDF:
+file:///C:/Users/Avishi/Downloads/output%20(12).pdf
+
+AUDIO OUTPUT:
+"C:\Users\Avishi\Downloads\translated_audio (8).mp3"
+
 PROJECT VIDEO:
 C:\Users\Avishi\OneDrive\Desktop\Recording AAF PROJECT.mp4
 
