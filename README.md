@@ -6,12 +6,13 @@ Given below is the link of code and the output:
 https://colab.research.google.com/drive/1olh6KmKKtGo5Md32lFz_3YfJbGU4_OFn?usp=sharing
 
 OUTPUT PDF:
-file:///C:/Users/Avishi/Downloads/output%20(12).pdf
+https://drive.google.com/file/d/1Mge7zJm5lLwThdVHr8WNG3xmckv5j6br/view?usp=sharing
 
 AUDIO OUTPUT:
-"C:\Users\Avishi\Downloads\translated_audio (8).mp3"
+https://drive.google.com/file/d/1VRW1_TC1AurPYPTJ1vMy-iLVnvkf77fI/view?usp=sharing
 
 PROJECT VIDEO:
-C:\Users\Avishi\OneDrive\Desktop\Recording AAF PROJECT.mp4
+https://drive.google.com/file/d/142XSL5WycqtntUt1XN_8_bStTyhw7qGh/view?usp=sharing
+
 
 
